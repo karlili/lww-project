@@ -1,6 +1,6 @@
 module.exports = {
 
-    "verbose": false,
+    "verbose": true,
     "collectCoverageFrom": [
         "**/*.{js,jsx}",
         "!**/node_modules/**",
