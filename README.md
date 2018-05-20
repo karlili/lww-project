@@ -11,7 +11,8 @@ The tests are written to test the functions around the methods in the class LWWS
 
 
 ###Methods
-There are 3 method available
+The test methods are to test around the 3 method available from the LWWSet class.
+
 1. `add(content)` - to add an element to the Add Set (A) of the LWW Set
     * Test __Add 1 element to Add Set__ verify if element is added 
 
@@ -63,3 +64,6 @@ Snapshots:   0 total
 Time:        1.119s
 Ran all test suites.
 ```
+
+##Attribution
+The implementation makes use of [lodash](https://lodash.com/ "lodash") to perform set operations
